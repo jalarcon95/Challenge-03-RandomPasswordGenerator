@@ -36,22 +36,22 @@ In this challenge, I modify starter code to create an application that enables t
 ## Screenshots
 
 Random Password Generator Page
-![screenshot](/Assets/passwordgeneratorwebpage.png)
+![screenshot](/Assets/Images/passwordgeneratorwebpage.png)
 
 Character Length Prompt
-![screenshot](/Assets/passwordgeneratorcharacterprompt.png)
+![screenshot](/Assets/Images/passwordgeneratorcharacterprompt.png)
 
 Lowercase Letter Prompt
-![screenshot](/Assets/passwordgeneratorlowercaseprompt.png)
+![screenshot](/Assets/Images/passwordgeneratorlowercaseprompt.png)
 
 Uppercase Letter Prompt
-![screenshot](/Assets/passwordgeneratoruppercaseprompt.png)
+![screenshot](/Assets/Images/passwordgeneratoruppercaseprompt.png)
 
 Numbers Prompt
-![screenshot](/Assets/passwordgeneratornumberprompt.png)
+![screenshot](/Assets/Images/passwordgeneratornumberprompt.png)
 
 Special Character Prompt
-![screenshot](/Assets/passwordgeneratorspecialcharprompt.png)
+![screenshot](/Assets/Images/passwordgeneratorspecialcharprompt.png)
 
 Example of Randomly Generated Password
-![screenshot](/Assets/passwordgenerated.png)
+![screenshot](/Assets/Images/passwordgenerated.png)
