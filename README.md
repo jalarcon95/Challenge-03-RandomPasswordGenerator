@@ -33,25 +33,27 @@ In this challenge, I modify starter code to create an application that enables t
 
 ## Website Link
 
+https://jalarcon95.github.io/Challenge-03-RandomPasswordGenerator/
+
 ## Screenshots
 
 Random Password Generator Page
-![screenshot](/Assets/Images/passwordgeneratorwebpage.png)
+![screenshot](/assets/images/passwordgeneratorwebpage.png)
 
 Character Length Prompt
-![screenshot](/Assets/Images/passwordgeneratorcharacterprompt.png)
+![screenshot](/assets/images/passwordgeneratorcharacterprompt.png)
 
 Lowercase Letter Prompt
-![screenshot](/Assets/Images/passwordgeneratorlowercaseprompt.png)
+![screenshot](/assets/images/passwordgeneratorlowercaseprompt.png)
 
 Uppercase Letter Prompt
-![screenshot](/Assets/Images/passwordgeneratoruppercaseprompt.png)
+![screenshot](/assets/images/passwordgeneratoruppercaseprompt.png)
 
 Numbers Prompt
-![screenshot](/Assets/Images/passwordgeneratornumberprompt.png)
+![screenshot](/assets/images/passwordgeneratornumberprompt.png)
 
 Special Character Prompt
-![screenshot](/Assets/Images/passwordgeneratorspecialcharprompt.png)
+![screenshot](/assets/images/passwordgeneratorspecialcharprompt.png)
 
 Example of Randomly Generated Password
-![screenshot](/Assets/Images/passwordgenerated.png)
+![screenshot](/assets/images/passwordgenerated.png)
