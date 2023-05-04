@@ -38,22 +38,22 @@ https://jalarcon95.github.io/Challenge-03-RandomPasswordGenerator/
 ## Screenshots
 
 Random Password Generator Page
-![screenshot](/assets/images/passwordgeneratorwebpage.png)
+![screenshot](/Assets/Images/passwordgeneratorwebpage.png)
 
 Character Length Prompt
-![screenshot](/assets/images/passwordgeneratorcharacterprompt.png)
+![screenshot](/Assets/Images/passwordgeneratorcharacterprompt.png)
 
 Lowercase Letter Prompt
-![screenshot](/assets/images/passwordgeneratorlowercaseprompt.png)
+![screenshot](/Assets/Images/passwordgeneratorlowercaseprompt.png)
 
 Uppercase Letter Prompt
-![screenshot](/assets/images/passwordgeneratoruppercaseprompt.png)
+![screenshot](/Assets/Images/passwordgeneratoruppercaseprompt.png)
 
 Numbers Prompt
-![screenshot](/assets/images/passwordgeneratornumberprompt.png)
+![screenshot](/Assets/Images/passwordgeneratornumberprompt.png)
 
 Special Character Prompt
-![screenshot](/assets/images/passwordgeneratorspecialcharprompt.png)
+![screenshot](/Assets/Images/passwordgeneratorspecialcharprompt.png)
 
 Example of Randomly Generated Password
-![screenshot](/assets/images/passwordgenerated.png)
+![screenshot](/Assets/Images/passwordgenerated.png)
